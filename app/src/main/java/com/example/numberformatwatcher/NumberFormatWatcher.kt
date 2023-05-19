@@ -22,7 +22,7 @@ import java.util.*
  * [Configuration.KEYBOARD_12KEY] parameter.
  *
  * @param textEnding suffix ending for the input. Can be a currency symbol (e.g., $), or any other
- * string value. Example, "2 3000.3 Bonuses".
+ * string value. Example, "2 300.3 Bonuses".
  *
  * @param isDecimal flag that sets this TextWatcher to accept up to 2 decimal places in a number.
  *
